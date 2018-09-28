@@ -1,0 +1,15 @@
+﻿生成启动时间为 2018/8/18 13:18:29。
+     1>项目“F:\C语言\迷宫\迷宫\迷宫.vcxproj”在节点 2 上(Rebuild 个目标)。
+     1>ClCompile:
+         D:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TC /analyze- /errorReport:prompt TestMaze.c
+         TestMaze.c
+     1>f:\c语言\迷宫\迷宫\stack.h(39): warning C4013: “StackEmpty”未定义；假设外部返回 int
+     1>f:\c语言\迷宫\迷宫\maze.h(341): warning C4020: “PassMazeNor”: 实参太多
+       Link:
+         D:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"F:\C语言\迷宫\Debug\迷宫.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"F:\C语言\迷宫\Debug\迷宫.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"F:\C语言\迷宫\Debug\迷宫.lib" /MACHINE:X86 Debug\TestMaze.obj
+         迷宫.vcxproj -> F:\C语言\迷宫\Debug\迷宫.exe
+     1>已完成生成项目“F:\C语言\迷宫\迷宫\迷宫.vcxproj”(Rebuild 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:01.23
